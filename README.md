@@ -48,6 +48,7 @@ REACT
 
   </ul>
   <summary>Client</summary>
+
     <li><a href="https://github.com/SaeqaSultani/hello-rails-react">FRONTEND</a><li>
 </details>
 
@@ -75,6 +76,8 @@ REACT
 ### Setup
 
 - Clone this repository by running `git clone git@github.com:SaeqaSultani/hello-rails-react.git` in your command line.
+
+
 
 - Navigate to the repository by running `cd hello-rails-front-end`.
 

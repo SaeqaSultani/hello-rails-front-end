@@ -74,7 +74,7 @@ REACT
 
 ### Setup
 
-- Clone this repository by running `git clone https://github.com/maaloum/hello_rails_fontend.git` in your command line.
+- Clone this repository by running `git clone git@github.com:SaeqaSultani/hello-rails-front-end.git` in your command line.
 
 - Navigate to the repository by running `cd hello-rails-front-end`.
 

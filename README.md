@@ -44,11 +44,11 @@ REACT
     <li><a href="https://www.ruby-lang.org/en/">Ruby</a></li>
     <li><a href="https://rubyonrails.org/">REACT</a></li>
     <li><a href="https://www.postgresql.org/">Postgresql</a></li>
-    <li><a href="https://github.com/Dmambo/hello-rails-back-end">BACKEND[Ruby on Rails]</a><li>
+    <li><a href="https://github.com/SaeqaSultani/hello-rails-back-end">BACKEND[Ruby on Rails]</a><li>
 
   </ul>
   <summary>Client</summary>
-    <li><a href="https://github.com/Dmambo/hello-react-front-end.git">FRONTEND</a><li>
+    <li><a href="https://github.com/Dmambo/hello-react-front-end">FRONTEND</a><li>
 </details>
 
 <p align="right"><a href="#readme-top">front to top</a></p>

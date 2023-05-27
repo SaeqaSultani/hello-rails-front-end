@@ -44,11 +44,11 @@ REACT
     <li><a href="https://www.ruby-lang.org/en/">Ruby</a></li>
     <li><a href="https://rubyonrails.org/">REACT</a></li>
     <li><a href="https://www.postgresql.org/">Postgresql</a></li>
-    <li><a href="https://github.com/Dmambo/hello-rails-back-end">BACKEND[Ruby on Rails]</a><li>
+    <li><a href="https://github.com/SaeqaSultani/hello-rails-back-end">BACKEND[Ruby on Rails]</a><li>
 
   </ul>
   <summary>Client</summary>
-    <li><a href="https://github.com/Dmambo/hello-react-front-end.git">FRONTEND</a><li>
+    <li><a href="https://github.com/SaeqaSultani/hello-rails-react">FRONTEND</a><li>
 </details>
 
 <p align="right"><a href="#readme-top">front to top</a></p>
@@ -74,7 +74,7 @@ REACT
 
 ### Setup
 
-- Clone this repository by running `git clone https://github.com/maaloum/hello_rails_fontend.git` in your command line.
+- Clone this repository by running `git clone git@github.com:SaeqaSultani/hello-rails-react.git` in your command line.
 
 - Navigate to the repository by running `cd hello-rails-front-end`.
 
@@ -114,7 +114,7 @@ REACT
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Dmambo/hello-rails-front-end.git/issues)
+Feel free to check the [issues page](https://github.com/SaeqaSultani/hello-rails-front-end/issues)
 
 <p align="right"><a href="#readme-top">front to top</a></p>
 

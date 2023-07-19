@@ -119,11 +119,8 @@ Feel free to check the [issues page](https://github.com/Dmambo/hello-rails-front
 <p align="right"><a href="#readme-top">front to top</a></p>
 
 <!-- SUPPORT -->
-
 ## ⭐️ Show your support <a name="support"></a>
-
 Give a ⭐️ if you like this project!
-
 <p align="right"><a href="#readme-top">front to top</a></p>
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>

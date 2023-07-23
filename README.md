@@ -83,7 +83,6 @@ REACT
 - Run `bundle install` to install all the gems.
 
 ### Run
-
 - Run npm install
 - Run npm start
 - In your browser, go to `http://localhost:3000`.

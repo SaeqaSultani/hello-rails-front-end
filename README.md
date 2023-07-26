@@ -3,7 +3,6 @@
 <div align="center">
   <h3><b>hello-rails-front-end</b></h3>
 </div>
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -35,7 +34,6 @@
 
 REACT
 </a>
-
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
